@@ -121,7 +121,7 @@ function draw()
     //bunny.change('eating');
 
     bunny.changeAnimation('eating');
-
+ 
     //bunny.changeAnimation();
 
     //bunny.Animation('eating');
